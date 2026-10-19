@@ -861,7 +861,7 @@ function Footer() {
           <div>
             <p className="mb-4 text-[10px] font-bold uppercase tracking-[0.2em] text-white/40">Nous trouver</p>
             <ul className="space-y-3 text-xs">
-              <li className="flex items-center gap-2"><MapPin size={13} className="text-ranch-500" /> Sénégal, Afrique de l'Ouest</li>
+              <li className="flex items-center gap-2"><MapPin size={13} className="text-ranch-500" /> Sénégal</li>
               <li className="flex items-center gap-2"><CalendarDays size={13} className="text-ranch-500" /> Visites Lun–Sam, sur RDV</li>
             </ul>
             <a href="#contact" className="mt-5 inline-flex items-center gap-2 rounded-full border border-ranch-500/40 px-4 py-2 text-[10px] font-bold uppercase tracking-[0.15em] text-ranch-400 transition hover:bg-ranch-500/10">
