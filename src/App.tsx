@@ -774,7 +774,7 @@ function ContactSection() {
             className="flex flex-col gap-5 rounded-3xl bg-white p-7 shadow-[0_16px_60px_rgba(32,53,42,0.09)] lg:p-10"
           >
             <div className="grid gap-5 sm:grid-cols-2">
-              <label className="field">Prénom et nom<input type="text" placeholder="Ex. Moussa Diallo" required /></label>
+              <label className="field">Prénom et nom<input type="text" required /></label>
               <label className="field">Email<input type="email" placeholder="votre@email.com" required /></label>
             </div>
             <label className="field">Téléphone (optionnel)<input type="tel" placeholder="+221 7X XXX XX XX" /></label>
